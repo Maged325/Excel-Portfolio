@@ -32,5 +32,8 @@ This project is designed to demonstrate strong data analysis capabilities using 
 ## 📥 **Get Started**
 Simply download or clone the repository and open the Excel file to explore the dashboard and formulas in action.
 
+## 🤝 **Connect with Me**
+🔗 [LinkedIn – Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
+
 ## 🙌 **Feedback**
 Feel free to share your thoughts or suggestions — I'm always looking to improve!

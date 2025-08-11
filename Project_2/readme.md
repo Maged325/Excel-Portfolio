@@ -1,4 +1,4 @@
-# 📊 Task 1: Excel Sales Performance Dashboard
+# 📊 Excel Sales Performance Dashboard
 
 This project is part of my internship under the **Sales Analysis Track**. It showcases how Excel can be used to create a clean and interactive **Sales Performance Dashboard** using real-world retail data.
 
@@ -57,3 +57,4 @@ Made by **Maged Fouad** during Elevvo Internship.
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mfouadmohamed325/) 💼
 
 ---
+

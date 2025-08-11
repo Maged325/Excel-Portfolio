@@ -1,6 +1,6 @@
 # 📊 **Excel Portfolio**
-## **Welcome to my Excel Data Analysis Project!**
-This project showcases a complete, real-world data analysis workflow using Microsoft Excel. It demonstrates the power of Excel for analytical tasks with advanced functions and interactive visualizations.
+## **Welcome to my Excel Data Analysis Projects!**
+This repository showcases a complete, real-world data analysis workflow using Microsoft Excel. It demonstrates the power of Excel for analytical tasks with advanced functions and interactive visualizations.
 
 ## 🛠️ **Tools & Features Used**
 🔍 XLOOKUP
@@ -10,8 +10,8 @@ This project showcases a complete, real-world data analysis workflow using Micro
 🎛️ Slicers
 📊 Interactive Dashboards
 
-## 🎯 **Project Objective**
-This project is designed to demonstrate strong data analysis capabilities using Excel — leveraging both formulas and built-in tools to clean, explore, and visualize data effectively.
+## 🎯 **Projects Objective**
+The projects in this repository is designed to demonstrate strong data analysis capabilities using Excel — leveraging both formulas and built-in tools to clean, explore, and visualize data effectively.
 
 ## 📂 **What's Inside**
 ✔️ Excel file(s) with a complete working solution
